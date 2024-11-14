@@ -19,7 +19,7 @@
                                 placeholder="Email" aria-label="Recipient's username" aria-describedby="button-addon2"
                                 required>
                             <button class="btn border-accent-color btn_submit-subscribe text-white px-5" type="submit"
-                                id="button-addon2">Subscribe</button>
+                                id="button-addon2" name="submit">Subscribe</button>
                         </div>
                     </form>
                     <div class="toast-container position-fixed bottom-0 end-0 p-3">
@@ -73,3 +73,32 @@
     <script src="js/vendor/fslightbox.js"></script>
     <script src="js/masonry.js"></script>
 </body>
+
+<?php
+if (isset($_POST['submit'])) {
+    // Collect and sanitize form data
+    $subscriber_email = filter_var($_POST['email'], FILTER_SANITIZE_EMAIL);
+
+    // Validate email
+    if (!filter_var($subscriber_email, FILTER_VALIDATE_EMAIL)) {
+        echo "<script>alert('Invalid email format')</script>";
+        exit;
+    }
+
+    // Prepare the email
+    $to = "info@asstudiovision.com";
+    $subject = "New Newsletter Subscription";
+    $body = "You have a new subscriber for your newsletter.\n\n" .
+            "Subscriber Email: $subscriber_email";
+
+    $headers = "From: $subscriber_email\r\n";
+    $headers .= "Reply-To: $subscriber_email\r\n";
+
+    // Send the email
+    if (mail($to, $subject, $body, $headers)) {
+        echo "<script>alert('Thank you for subscribing!')</script>";
+    } else {
+        echo "<script>alert('Oops! Something went wrong. Please try again later.')</script>";
+    }
+}
+?>

@@ -190,7 +190,5 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     } else {
         echo "Oops! Something went wrong, and we couldn't send your message.";
     }
-} else {
-    echo "There was a problem with your submission, please try again.";
 }
 ?>
