@@ -80,7 +80,7 @@
             <nav class="navbar navbar-expand-lg">
                 <div class="container-fluid">
                     <div class="logo-container">
-                        <a href="index.php"><img src="image/logo.png" alt="" class="img-fluid"></a>
+                        <a href="index.php"><img src="image/logo.jpeg" alt="" class="img-fluid"></a>
                     </div>
                     <button class="navbar-toggler border-0 accent-color" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
