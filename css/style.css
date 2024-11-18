@@ -161,6 +161,7 @@ a {
 .dropdown-item {
     color: white;
     padding-block: 1rem;
+    font-size: 12px;
 }
 
 .dropdown-item.active {
@@ -557,5 +558,13 @@ a {
 
     .border-custom {
         border-width: 0px 0px 1px 0px;
+    }
+    
+    .dropdown-col .dropdown-item {
+        font-size: 30px !important;
+    }
+
+    .nav-item.dropdown > a {
+        pointer-events: none;
     }
 }
