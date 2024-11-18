@@ -1,5 +1,5 @@
 <?php
-define('ROOT_PATH', 'http://localhost/studio-vision/');
+define('ROOT_PATH', 'http://localhost/photography/');
 ?>
 
 <!DOCTYPE html>
@@ -172,7 +172,7 @@ define('ROOT_PATH', 'http://localhost/studio-vision/');
                         </ul>
                         
                         <div>
-                            <a type="button" href="" class="font-2">GET STARTED</a>
+                            <a type="button" href="<?= ROOT_PATH ?>services.php" class="font-2">GET STARTED</a>
                         </div>
                     </div>
                 </div>

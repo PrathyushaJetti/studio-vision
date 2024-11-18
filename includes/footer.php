@@ -4,7 +4,7 @@
                 <div class="overlay"></div>
                 <div class="d-flex justify-content-center align-items-center flex-column position-relative"
                     style="z-index: 2;">
-                    <div class="mb-4">
+                    <div class="mb-4 logo-container">
                         <img src="<?= ROOT_PATH ?>img/logo.png" alt="logo" class="img-fluid">
                     </div>
                     <h4 class="text-white font-2 mb-4">Stay in Touch</h4>

@@ -150,7 +150,7 @@ include('includes/header.php')
         <section class="section">
             <div class="r-container">
                 <div class="d-flex flex-column justify-content-center align-items-center text-center gap-3">
-                    <h4 class="text-white font-1 fw-bold fs-1">Take your moment with Codagraph</h4>
+                    <h4 class="text-white font-1 fw-bold fs-1">Take your moment with AS Studio Vision</h4>
                     <p class="text-gray" style="max-width: 768px;">
                     Capture every beautiful moment with AS Studio Vision. Our skilled photographers bring creativity and precision to each shot, ensuring your memories are perfectly preserved. Trust us to turn your moments into timeless art. 
                     </p>
