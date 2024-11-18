@@ -1,8 +1,8 @@
 <?php 
 $meta = [
-    'title' => "Best Adverting Video Production Service in Hyderabad | AS Studio Vision",
-    'description' => "AS Studio Vision offers expert advertising video production services, creating compelling videos that enhance brand visibility, engage audiences, and drive business growth.",
-    'keywords' => "Advertisements, ads, advertising, short video, google advertising, advertising on YouTube, ad YouTube, 4k video, videos short, video ads, Facebook video ads, Instagram ads, video production companies near me, video production company, video production service,",
+    'title' => "Privacy Policy - AS Studio Vision",
+    'description' => "AS Studio Vision's Privacy Policy ensures your data is secure and handled responsibly. Experience trusted photography services with complete confidentiality.",
+    'keywords' => "Privacy Policy",
    
     
 ]; 

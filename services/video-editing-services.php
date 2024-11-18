@@ -1,7 +1,7 @@
 <?php 
 $meta = [
     'title' => "Best video Editing Services in Hyderabad | AS studio vision",
-    'description' => "Discover custom Albums and Frames Design Services at AS Studio Vision, creating personalized, high-quality designs that express your memories beautifully.",
+    'description' => "AS Studio Vision offers the best video editing services, delivering stunning visuals and seamless edits to bring your creative vision to life. Contact us today",
     'keywords' => "video editing services, video editing services near me, video editing, best video editing, 	wedding video editing, After Effects video editing, 4k video editing, 360 video editing, birthday video editing, editing birthday video, professional video editing services in Hyderabad, ",
    
     

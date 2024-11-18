@@ -21,9 +21,8 @@ include('includes/header.php')
                     <!-- <div class="divider divider-before mx-auto">
                         <span class="accent-color fs-5 mx-3">LET IT BE AMAZING</span>
                     </div> -->
-                    <h2 class="text-title text-white fw-bold font-1 lh-1"> Capture your special movements with us </h2>
-                    <p class="text-white f-18 text-font mx-auto" style="max-width: 768px;">Lorem ipsum dolor sit amet,
-                    Discover the best photography services that capture every moment with precision and creativity. From indoor to outdoor shoots, we turn special occasions into lasting memories with stunning, high-quality images.</p>
+                    <h2 class="text-title text-white fw-bold font-1 lh-1"> Capture your special moments with us </h2>
+                    <p class="text-white f-18 text-font mx-auto" style="max-width: 768px;">Discover the best photography services that capture every moment with precision and creativity. From indoor to outdoor shoots, we turn special occasions into lasting memories with stunning, high-quality images.</p>
                     <div>
                         <a type="button" href="services.php" class="btn text-font rounded-0 font-1">VIEW SERVICES</a>
                     </div>
@@ -38,7 +37,7 @@ include('includes/header.php')
                 <div class="position-relative" style="z-index: 2;">
                     <div class="row row-cols-1 row-cols-lg-2">
                         <div class="col">
-                            <img src="image/dummy-img-600x800.jpg" alt="" class="img-fluid">
+                            <img src="image/dummy-img-600x800.jpg" alt="about-picture" class="img-fluid">
                         </div>
                         <div class="col">
                             <div class="d-flex flex-column justify-content-center gap-3 h-100">
@@ -154,28 +153,28 @@ include('includes/header.php')
                                 aria-labelledby="pills-home-tab" tabindex="0">
                                 <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 masonry-grid">
                                     <div class="col masonry-item mb-3">
-                                        <a href="image/dummy-img-900x600.jpg" data-fslightbox="all-work">
+                                        <a href="img/Food - Products-4.webp" data-fslightbox="all-work">
                                             <img src="img/Food - Products-4.webp" alt="food" class="img-fluid">
                                         </a>
                                     </div>
                                     <div class="col masonry-item mb-3">
-                                        <a href="image/dummy-img-600x800.jpg" data-fslightbox="all-work">
+                                        <a href="img/wedding-7.webp" data-fslightbox="all-work">
                                             <img src="img/wedding-7.webp" alt="wedding" class="img-fluid">
                                         </a>
                                     </div>
                                     <div class="col masonry-item mb-3">
-                                        <a href="image/dummy-img-900x600.jpg" data-fslightbox="all-work">
+                                        <a href="img/social-media-9.webp" data-fslightbox="all-work">
                                             <img src="img/social-media-9.webp" alt="social media" class="img-fluid">
                                         </a>
                                     </div>
                                     <div class="col masonry-item mb-3">
-                                        <a href="image/dummy-img-900x600.jpg" data-fslightbox="all-work">
+                                        <a href="img/wedding-3.webp" data-fslightbox="all-work">
                                             <img src="img/wedding-3.webp" alt="wedding" class="img-fluid">
                                         </a>
                                     </div>
 
                                     <div class="col masonry-item mb-3">
-                                        <a href="image/dummy-img-900x600.jpg" data-fslightbox="all-work">
+                                        <a href="img/social-media-4.webp" data-fslightbox="all-work">
                                             <img src="img/social-media-4.webp" alt="social media" class="img-fluid">
                                         </a>
                                     </div>
@@ -216,7 +215,7 @@ include('includes/header.php')
                                         </a>
                                     </div>
                                     <div class="col masonry-item mb-3">
-                                        <a href="mg/wedding-5.webp" data-fslightbox="fashion">
+                                        <a href="img/wedding-5.webp" data-fslightbox="fashion">
                                             <img src="img/wedding-5.webp" alt="wedding" class="img-fluid">
                                         </a>
                                     </div>
@@ -291,7 +290,7 @@ include('includes/header.php')
             </div>
         </section>
         <section class="section position-relative bg-attach-fixed"
-            style="background-image: url(image/dummy-img-1920x900.jpg);">
+            style="background-image: url(img/banner-2.webp);" alt="banner">
             <div class="r-container">
                 <div class="overlay"></div>
                 <div class="position-relative" style="z-index: 2;">
@@ -313,10 +312,7 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="d-flex flex-column p-4">
                                         <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.</p>
+                                        We booked them for our engagement photos, and they exceeded our expectations. The pictures were breathtaking, with perfect lighting and creative angles. We’re so excited to share these memories with our loved ones.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
                                                 <img src="image/dummy-img-400x400.jpg" alt=""
@@ -324,8 +320,8 @@ include('includes/header.php')
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
                                             <div class="d-flex flex-column flex-grow-1">
-                                                <h6 class="accent-color font-2 lh-1">Abraham Smith</h6>
-                                                <span class="text-gray">CEO</span>
+                                                <h6 class="accent-color font-2 lh-1"> Meera & David </h6>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -333,10 +329,7 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="d-flex flex-column p-4">
                                         <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.</p>
+                                        They did an amazing job with my baby’s photoshoot. The team was so patient and creative, making my little one smile naturally. The photos turned out adorable. We are so happy with their work thank you.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
                                                 <img src="image/dummy-img-400x400.jpg" alt=""
@@ -344,8 +337,8 @@ include('includes/header.php')
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
                                             <div class="d-flex flex-column flex-grow-1">
-                                                <h6 class="accent-color font-2 lh-1">Laluna Adam</h6>
-                                                <span class="text-gray">CEO</span>
+                                                <h6 class="accent-color font-2 lh-1"> Miley </h6>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -353,10 +346,7 @@ include('includes/header.php')
                                 <div class="swiper-slide">
                                     <div class="d-flex flex-column p-4">
                                         <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.</p>
+                                        We contacted them for my daughter’s birthday party, and they captured every joyful moment perfectly. The photos are vibrant and full of life, bringing back all the happy memories. Highly recommend it for any special occasion.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
                                                 <img src="image/dummy-img-400x400.jpg" alt=""
@@ -364,8 +354,8 @@ include('includes/header.php')
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
                                             <div class="d-flex flex-column flex-grow-1">
-                                                <h6 class="accent-color font-2 lh-1">Mike Wasosky</h6>
-                                                <span class="text-gray">CEO</span>
+                                                <h6 class="accent-color font-2 lh-1"> Rachel </h6>
+                                               
                                             </div>
                                         </div>
                                     </div>

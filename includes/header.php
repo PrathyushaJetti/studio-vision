@@ -91,7 +91,7 @@ define('ROOT_PATH', 'http://localhost/studio-vision/');
             <nav class="navbar navbar-expand-lg">
                 <div class="container-fluid">
                     <div class="logo-container">
-                        <a href="<?= ROOT_PATH ?>index.php"><img src="<?= ROOT_PATH ?>image/logo.jpeg" alt="logo" class="img-fluid"></a>
+                        <a href="<?= ROOT_PATH ?>index.php"><img src="<?= ROOT_PATH ?>img/logo.png" alt="logo" class="img-fluid"></a>
                     </div>
                     <button class="navbar-toggler border-0 accent-color" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

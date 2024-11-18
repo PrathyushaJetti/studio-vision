@@ -1,11 +1,11 @@
 <footer>
-        <section class="section position-relative" style="background-image: url(<?= ROOT_PATH ?>image/dummy-img-1920x900.jpg);">
+        <section class="section position-relative" style="background-image: url(<?= ROOT_PATH ?>img/footer-banner-3.webp);" alt="banner">
             <div class="r-container">
                 <div class="overlay"></div>
                 <div class="d-flex justify-content-center align-items-center flex-column position-relative"
                     style="z-index: 2;">
                     <div class="mb-4">
-                        <img src="<?= ROOT_PATH ?>image/logo.png" alt="" class="img-fluid">
+                        <img src="<?= ROOT_PATH ?>image/logo.png" alt="logo" class="img-fluid">
                     </div>
                     <h4 class="text-white font-2 mb-4">Stay in Touch</h4>
                     <p class="text-gray font-1">
@@ -63,8 +63,7 @@
                             <i class="fa-brands fa-instagram"></i>
                         </a>
                     </div>
-                    <span class="text-gray font-1">Copyright Codagraph Studio © All rights Reserved 2023. Design by
-                        Rometheme</span>
+                    <span class="text-gray font-1">Copyright AS Studio Vision © All rights Reserved 2024. </span>
                 </div>
             </div>
         </section>
