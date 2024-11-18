@@ -22,7 +22,7 @@ include('includes/header.php')
                         </h3>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb font-2">
-                                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
                             </ol>
                         </nav>
@@ -109,7 +109,7 @@ include('includes/header.php')
                                             class="fa-solid fa-xmark"></i></button>
                                 </div>
                             </div>
-                            <form action="contact.php" class="d-flex flex-column w-100 needs-validation mb-3 form" novalidate>
+                            <form action=" " class="d-flex flex-column w-100 needs-validation mb-3 form" method="post">
                                 <div class="mb-3">
                                     <input type="text" class="form-control p-3" name="name" id="name" placeholder="Name"
                                         required>
