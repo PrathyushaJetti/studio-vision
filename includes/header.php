@@ -1,5 +1,5 @@
 <?php
-define('ROOT_PATH', 'http://localhost/studio-vision/');
+define('ROOT_PATH', 'http://localhost/photography/');
 ?>
 
 <!DOCTYPE html>
@@ -123,9 +123,9 @@ define('ROOT_PATH', 'http://localhost/studio-vision/');
                                 </ul>
                             </li>
 
-                            <li class="nav-item dropdown">
-    <a class="nav-link dropdown-toggle" href="<?= ROOT_PATH ?>services.php" role="button" data-bs-toggle="dropdown"
-        data-bs-auto-close="outside" aria-expanded="false">
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" href="<?= ROOT_PATH ?>services.php"
+        data-bs-auto-close="outside"  target="_blank">
         Services
     </a>
     
@@ -178,3 +178,16 @@ define('ROOT_PATH', 'http://localhost/studio-vision/');
         </div>
     </section>
     <!-- End Header -->
+
+    <script>
+document.querySelector('.nav-item.dropdown > a').addEventListener('click', function (e) {
+    if (this.getAttribute('aria-expanded') === 'false') {
+        e.preventDefault(); // Prevent immediate navigation
+        // Toggle the dropdown manually
+        let dropdown = new bootstrap.Dropdown(this);
+        dropdown.toggle();
+    }
+});
+
+
+    </script>    

@@ -109,7 +109,7 @@ include('includes/header.php')
                                             class="fa-solid fa-xmark"></i></button>
                                 </div>
                             </div>
-                            <form action="contact.php" class="d-flex flex-column w-100 needs-validation mb-3 form" novalidate>
+                            <form action=" " class="d-flex flex-column w-100 needs-validation mb-3 form" method="post">
                                 <div class="mb-3">
                                     <input type="text" class="form-control p-3" name="name" id="name" placeholder="Name"
                                         required>
