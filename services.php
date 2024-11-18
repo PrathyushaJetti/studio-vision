@@ -2,7 +2,7 @@
     <!-- End Header -->
 
     <main>
-        <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
+        <section class="section position-relative" style="background-image: url(img/services-banner.webp);">
             <div class="r-container">
                 <div class="overlay-2"></div>
                 <div class="position-relative" style="z-index: 2;">

@@ -12,7 +12,7 @@ include '.././includes/header.php';
 <!-- End Header -->
 
 <main>
-    <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
+    <section class="section position-relative" style="background-image: url(../img/wedding-banner.webp);" alt="wedding">
         <div class="r-container">
             <div class="overlay-2"></div>
             <div class="position-relative" style="z-index: 2;">
@@ -24,7 +24,7 @@ include '.././includes/header.php';
                     <nav aria-label="breadcrumb">
                         <ol class="breadcrumb font-2">
                             <li class="breadcrumb-item"><a href="../index.php">Home</a></li>
-                            <li class="breadcrumb-item active" aria-current="page">Services</li>
+                            <li class="breadcrumb-item active" aria-current="page">Wedding Photography</li>
                         </ol>
                     </nav>
                 </div>
@@ -59,33 +59,33 @@ include '.././includes/header.php';
     <section class="section py-2">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 masonry-grid w-100">
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                <a href="../img/wedding-sevice-1.webp" data-fslightbox="gallery">
+                    <img src="../img/wedding-sevice-1.webp" alt="wedding" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                <a href="../img/wedding-sevice-4.webp" data-fslightbox="gallery">
+                    <img src="../img/wedding-sevice-4.webp" alt="wedding" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                <a href="../img/wedding-sevice-3.webp" data-fslightbox="gallery">
+                    <img src="../img/wedding-sevice-3.webp" alt="wedding" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                <a href="../img/wedding-sevice-5.webp" data-fslightbox="gallery">
+                    <img src="../img/wedding-sevice-5.webp" alt="wedding" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                <a href="../img/wedding-sevice-6.webp" data-fslightbox="gallery">
+                    <img src="../img/wedding-sevice-6.webp" alt="wedding" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                <a href="../img/wedding-sevice-3.webp" data-fslightbox="gallery">
+                    <img src="../img/wedding-sevice-3.webp" alt="wedding" class="img-fluid">
                 </a>
             </div>
 

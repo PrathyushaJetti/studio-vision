@@ -37,7 +37,7 @@ include('includes/header.php')
                 <div class="position-relative" style="z-index: 2;">
                     <div class="row row-cols-1 row-cols-lg-2">
                         <div class="col">
-                            <img src="image/dummy-img-600x800.jpg" alt="about-picture" class="img-fluid">
+                            <img src="img/about-image.webp" alt="about-picture" class="img-fluid">
                         </div>
                         <div class="col">
                             <div class="d-flex flex-column justify-content-center gap-3 h-100">
@@ -47,9 +47,7 @@ include('includes/header.php')
 
 
                                 </p>
-                                <div class="my-4">
-                                    <img src="image/TTD.png" alt="" class="img-fluid" style="max-width: 300px;">
-                                </div>
+                               
                                 <div class="d-flex flex-row gap-3 ">
                                     <a type="button" href=""
                                         class="social-item p-2 d-flex align-items-center justify-content-center">
@@ -315,7 +313,7 @@ include('includes/header.php')
                                         We booked them for our engagement photos, and they exceeded our expectations. The pictures were breathtaking, with perfect lighting and creative angles. We’re so excited to share these memories with our loved ones.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
-                                                <img src="image/dummy-img-400x400.jpg" alt=""
+                                                <img src="img/testimonial-1.webp" alt=""
                                                     class="rounded-circle img-fluid"
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
@@ -332,7 +330,7 @@ include('includes/header.php')
                                         They did an amazing job with my baby’s photoshoot. The team was so patient and creative, making my little one smile naturally. The photos turned out adorable. We are so happy with their work thank you.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
-                                                <img src="image/dummy-img-400x400.jpg" alt=""
+                                                <img src="img/testimonial-2.webp" alt=""
                                                     class="rounded-circle img-fluid"
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
@@ -349,7 +347,7 @@ include('includes/header.php')
                                         We contacted them for my daughter’s birthday party, and they captured every joyful moment perfectly. The photos are vibrant and full of life, bringing back all the happy memories. Highly recommend it for any special occasion.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
-                                                <img src="image/dummy-img-400x400.jpg" alt=""
+                                                <img src="img/testimonial-3.webp" alt=""
                                                     class="rounded-circle img-fluid"
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
@@ -367,30 +365,7 @@ include('includes/header.php')
             </div>
         </section>
 
-        <section class="section bg-secondary-dark">
-            <div class="r-container">
-                <div class="row row-cols-1 row-cols-lg-6">
-                    <div class="col mb-3 mb-lg-0">
-                        <img src="image/logo-ipsum-1.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="col mb-3 mb-lg-0">
-                        <img src="image/logo-ipsum-2.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="col mb-3 mb-lg-0">
-                        <img src="image/logo-ipsum-3.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="col mb-3 mb-lg-0">
-                        <img src="image/logo-ipsum-4.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="col mb-3 mb-lg-0">
-                        <img src="image/logo-ipsum-5.png" alt="" class="img-fluid">
-                    </div>
-                    <div class="col mb-3 mb-lg-0">
-                        <img src="image/logo-ipsum-6.png" alt="" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-        </section>
+    
 
         <section class="section">
             <div class="r-container">
@@ -467,7 +442,7 @@ include('includes/header.php')
                                     <i class="fa-solid fa-phone accent-color fs-1"></i>
                                     <div class="d-flex flex-column">
                                         <h6 class="text-white font-1">Phone</h6>
-                                        <span class="text-gray">345 563 23</span>
+                                        <span class="text-gray">+91-9908107853</span>
                                     </div>
                                 </div>
                             </div>
@@ -476,7 +451,7 @@ include('includes/header.php')
                                     <i class="fa-solid fa-earth-asia accent-color fs-1"></i>
                                     <div class="d-flex flex-column">
                                         <h6 class="text-white font-1">Site</h6>
-                                        <span class="text-gray">www.awesomesite.com</span>
+                                        <span class="text-gray">asw-enterprises.com</span>
                                     </div>
                                 </div>
                             </div>
@@ -485,7 +460,7 @@ include('includes/header.php')
                                     <i class="fa-solid fa-envelope accent-color fs-1"></i>
                                     <div class="d-flex flex-column">
                                         <h6 class="text-white font-1">Email</h6>
-                                        <span class="text-gray">hello@awesomesite.com</span>
+                                        <span class="text-gray">info@asstudiovision.com</span>
                                     </div>
                                 </div>
                             </div>

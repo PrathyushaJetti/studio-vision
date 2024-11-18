@@ -10,7 +10,7 @@ include('includes/header.php')
 
  ?>
     <main>
-        <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
+        <section class="section position-relative" style="background-image: url(img/about-banner.webp);" alt="about-banner">
             <div class="r-container">
                 <div class="overlay-2"></div>
                 <div class="position-relative" style="z-index: 2;">
@@ -36,17 +36,17 @@ include('includes/header.php')
                 <div class="position-relative" style="z-index: 2;">
                     <div class="row row-cols-1 row-cols-lg-2">
                         <div class="col">
-                            <img src="image/dummy-img-600x800.jpg" alt="" class="img-fluid">
+                            <img src="img/about-image.webp" alt="about-picture" class="img-fluid">
                         </div>
                         <div class="col">
                             <div class="d-flex flex-column justify-content-center gap-3 h-100">
                                 
                                 <h4 class="text-title text-white fw-bold font-1 lh-1">Professional Photographer</h4>
                                 <p class="text-white f-18 text-font my-4">Our expert photographer brings a keen eye, technical skill, and creative vision to every shot. With years of experience, we capture moments that reflect true emotions and tell stories. Trust an expert to create unforgettable experiences.
+
+
                                 </p>
-                                <div class="my-4">
-                                    <img src="image/TTD.png" alt="" class="img-fluid" style="max-width: 300px;">
-                                </div>
+                               
                                 <div class="d-flex flex-row gap-3 ">
                                     <a type="button" href=""
                                         class="social-item p-2 d-flex align-items-center justify-content-center">
@@ -86,37 +86,34 @@ include('includes/header.php')
                     <div class="row row-cols-1 row-cols-lg-3">
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-1.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1">Fashion Photography</h5>
+                                <img src="img/pre-wedding-icon.webp" alt="pre wedding" srcset="" class="img-fluid img-icon">
+                                <h5 class="text-white font-1"> Pre Post Wedding </h5>
                                 <p class="text-gray">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labor.
+                                Pre post wedding photography captures love, emotions, and timeless memories beautifully.
                                 </p>
                             </div>
                         </div>
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1">Portrait Photography</h5>
+                                <img src="img/birthday-icon.webp" alt="birthday" srcset="" class="img-fluid img-icon">
+                                <h5 class="text-white font-1"> Birthday Party </h5>
                                 <p class="text-gray">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labor.
+                                Creative birthday party photography capturing joy, laughter, and special moments.
                                 </p>
                             </div>
                         </div>
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-3.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1">Landscape Photography</h5>
+                                <img src="img/fashion-icon-2.webp" alt="fashion"  srcset="" class="img-fluid img-icon">
+                                <h5 class="text-white font-1"> Fashion Portfolio </h5>
                                 <p class="text-gray">
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-                                    incididunt ut labor.
+                                Perfect fashion photography at AS Studio vision that captures individuality, and personality.
                                 </p>
                             </div>
                         </div>
                     </div>
                     <div>
-                        <a href="" type="button">All Services</a>
+                        <a href="services.php" type="button">All Services</a>
                     </div>
                 </div>
         </section>
@@ -139,8 +136,8 @@ include('includes/header.php')
                                     </div>
                                 </div>
                             </div>
-                            <div class="r-progress w-100" style="--value:75;">
-                                <span class="text-white font-2">Marketing</span>
+                            <div class="r-progress w-100" style="--value:90;">
+                                <span class="text-white font-2">Short Film and Teaser</span>
                                 <div class="progress-container mt-2">
                                     <div class="r-progress-bar percentage-label">
                                         <div class="progress-value"></div>
@@ -155,7 +152,7 @@ include('includes/header.php')
                                     </div>
                                 </div>
                             </div>
-                            <div class="r-progress w-100" style="--value:80;">
+                            <div class="r-progress w-100" style="--value:85;">
                                 <span class="text-white font-2">Design</span>
                                 <div class="progress-container mt-2">
                                     <div class="r-progress-bar percentage-label">
@@ -166,13 +163,13 @@ include('includes/header.php')
                         </div>
                     </div>
                     <div class="col col-lg-7">
-                        <img src="image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                        <img src="img/team-skills.webp" alt="" class="img-fluid">
                     </div>
                 </div>
             </div>
         </section>
 
-        <section class="section">
+        <!-- <section class="section">
             <div class="r-container">
                 <div class="divider mb-4">
                     <span class="accent-color fs-5 me-3">WE ARE CODAGRAPH</span>
@@ -268,7 +265,7 @@ include('includes/header.php')
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
 
         <section class="py-5 position-relative">
             <div class="r-container">

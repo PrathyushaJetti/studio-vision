@@ -157,12 +157,12 @@ define('ROOT_PATH', 'http://localhost/studio-vision/');
     </ul>
     
                             <li class="nav-item dropdown">
-                                <a class="nav-link" href="contact.php" role="button" data-bs-toggle="dropdown"
+                                <a class="nav-link" href="<?= ROOT_PATH ?>contact.php" role="button" data-bs-toggle="dropdown"
                                     data-bs-auto-close="outside" aria-expanded="false">
                                     Contact Us
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="contact.php">Contact Us</a>
+                                    <li><a class="dropdown-item" href="<?= ROOT_PATH ?>contact.php">Contact Us</a>
                                     </li>
                                     <!-- <li><a class="dropdown-item" href="about_personal.html">About Personal</a></li> -->
                                 </ul>
