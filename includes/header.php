@@ -131,28 +131,28 @@ define('ROOT_PATH', 'http://localhost/photography/');
     
     <ul class="dropdown-menu" style="width: 600%; max-width: 800px; display: flex; flex-wrap: wrap;">
         <div class="dropdown-col" style="width: 25%;">
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/pre-post-wedding.php"> Pre/Post Wedding </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/wedding.php"> Wedding </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/birthday-party.php"> Birthday Party </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/baby-kids-portfolio.php"> Baby/Kids Portfolio </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/pre-post-wedding.php" style="font-size:12px;"> Pre/Post Wedding </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/wedding.php" style="font-size:12px;"> Wedding </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/birthday-party.php" style="font-size:12px;"> Birthday Party </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/baby-kids-portfolio.php" style="font-size:12px;"> Baby/Kids Portfolio </a></li>
         </div>
         <div class="dropdown-col" style="width: 25%;">
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/special-events.php"> Special Events </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/fashion-portfolio.php"> Fashion Portfolio </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/documentary.php"> Documentary </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/short-film-and-teaser.php"> Short Film & Teaser </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/special-events.php" style="font-size:12px;"> Special Events </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/fashion-portfolio.php" style="font-size:12px;"> Fashion Portfolio </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/documentary.php" style="font-size:12px;"> Documentary </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/short-film-and-teaser.php" style="font-size:12px;"> Short Film & Teaser </a></li>
         </div>
         <div class="dropdown-col" style="width: 25%;">
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/indoor-outdoor-services.php"> Indoor/Outdoor </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/corporate-event.php"> Corporate Event </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/live-streaming.php"> Live Streaming</a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/albums-frames.php"> Albums/Frames </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/indoor-outdoor-services.php" style="font-size:12px;"> Indoor/Outdoor </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/corporate-event.php" style="font-size:12px;"> Corporate Event </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/live-streaming.php" style="font-size:12px;"> Live Streaming</a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/albums-frames.php" style="font-size:12px;"> Albums/Frames </a></li>
         </div>
         <div class="dropdown-col" style="width: 25%;">
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/video-editing-services.php"> Video Editing </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/food-products.php"> Food/Products  </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/media-videos.php"> Social Media Videos </a></li>
-            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/advertising-videos.php "> Advertising Videos </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/video-editing-services.php" style="font-size:12px;"> Video Editing </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/food-products.php" style="font-size:12px;"> Food/Products  </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/media-videos.php" style="font-size:12px;"> Social Media Videos </a></li>
+            <li><a class="dropdown-item" href="<?= ROOT_PATH ?>services/advertising-videos.php " style="font-size:12px;"> Advertising Videos </a></li>
         </div>
     </ul>
     
