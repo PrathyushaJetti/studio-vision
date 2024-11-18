@@ -12,7 +12,7 @@ include '.././includes/header.php';
 <!-- End Header -->
 
 <main>
-    <section class="section position-relative" style="background-image: url(../img/indoor&outdoor-banner.webp);" alt="banner">
+    <section class="section position-relative" style="background-image: url(../img/indooroutdoor-banner.webp);" alt="banner">
         <div class="r-container">
             <div class="overlay-2"></div>
             <div class="position-relative" style="z-index: 2;">
@@ -59,33 +59,33 @@ include '.././includes/header.php';
     <section class="section py-2">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 masonry-grid w-100">
             <div class="col masonry-item mb-3">
-                <a href="../img/indoor&outdoor-1.webp" data-fslightbox="gallery">
-                    <img src="../img/indoor&outdoor-1.webp" alt="indoor outdoor" class="img-fluid">
+                <a href="../img/indoor-outdoor-1.webp" data-fslightbox="gallery">
+                    <img src="../img/indoor-outdoor-1.webp" alt="indoor outdoor" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../img/indoor&outdoor-4.webp" data-fslightbox="gallery">
-                    <img src="../img/indoor&outdoor-4.webp" alt="indoor outdoor" class="img-fluid">
+                <a href="../img/indoor-outdoor-4.webp" data-fslightbox="gallery">
+                    <img src="../img/indoor-outdoor-4.webp" alt="indoor outdoor" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../img/indoor&outdoor-2.webp" data-fslightbox="gallery">
-                    <img src="../img/indoor&outdoor-2.webp" alt="indoor outdoor" class="img-fluid">
+                <a href="../img/indoor-outdoor-2.webp" data-fslightbox="gallery">
+                    <img src="../img/indoor-outdoor-2.webp" alt="indoor outdoor" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../img/indoor&outdoor-5.webp" data-fslightbox="gallery">
-                    <img src="../img/indoor&outdoor-5.webp" alt="indoor outdoor" class="img-fluid">
+                <a href="../img/indoor-outdoor-5.webp" data-fslightbox="gallery">
+                    <img src="../img/indoor-outdoor-5.webp" alt="indoor outdoor" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../img/indoor&outdoor-6.webp" data-fslightbox="gallery">
-                    <img src="../img/indoor&outdoor-6.webp" alt="indoor outdoor" class="img-fluid">
+                <a href="../img/indoor-outdoor-6.webp" data-fslightbox="gallery">
+                    <img src="../img/indoor-outdoor-6.webp" alt="indoor outdoor" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../img/indoor&outdoor-3.webp" data-fslightbox="gallery">
-                    <img src="../img/indoor&outdoor-3.webp" alt="indoor outdoor" class="img-fluid">
+                <a href="../img/indoor-outdoor-3.webp" data-fslightbox="gallery">
+                    <img src="../img/indoor-outdoor-3.webp" alt="indoor outdoor" class="img-fluid">
                 </a>
             </div>
 

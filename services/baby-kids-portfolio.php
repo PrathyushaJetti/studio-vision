@@ -12,7 +12,7 @@ include '.././includes/header.php';
 <!-- End Header -->
 
 <main>
-    <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
+    <section class="section position-relative" style="background-image: url(../img/kidsbaby-banner.webp);"alt="kids">
         <div class="r-container">
             <div class="overlay-2"></div>
             <div class="position-relative" style="z-index: 2;">
@@ -61,33 +61,33 @@ include '.././includes/header.php';
     <section class="section py-2">
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 masonry-grid w-100">
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                <a href="../img/kidsbaby-1.webp" data-fslightbox="gallery">
+                    <img src="../img/kidsbaby-1.webp"  alt="kids" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                <a href="../img/kidsbaby-4.webp" data-fslightbox="gallery">
+                    <img src="../img/kidsbaby-4.webp"  alt="kids" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                <a href="../img/kidsbaby-2.webp" data-fslightbox="gallery">
+                    <img src="../img/kidsbaby-2.webp"  alt="kids" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                <a href="../img/kidsbaby-5.webp" data-fslightbox="gallery">
+                    <img src="../img/kidsbaby-5.webp"  alt="kids" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                <a href="../img/kidsbaby-6.webp" data-fslightbox="gallery">
+                    <img src="../img/kidsbaby-6.webp"  alt="kids" class="img-fluid">
                 </a>
             </div>
             <div class="col masonry-item mb-3">
-                <a href="../image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                    <img src="../image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                <a href="../img/kidsbaby-3.webp" data-fslightbox="gallery">
+                    <img src="../img/kidsbaby-3.webp"  alt="kids" class="img-fluid">
                 </a>
             </div>
 

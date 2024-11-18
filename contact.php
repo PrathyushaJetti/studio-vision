@@ -57,7 +57,7 @@ include('includes/header.php')
                                     <i class="fa-solid fa-earth-asia accent-color fs-1"></i>
                                     <div class="d-flex flex-column">
                                         <h6 class="text-white font-1">Site</h6>
-                                        <span class="text-gray">asw-enterprises.com</span>
+                                        <span class="text-gray">asstudiovision.com</span>
                                     </div>
                                 </div>
                             </div>
@@ -75,7 +75,7 @@ include('includes/header.php')
                                     <i class="fa-solid fa-location-dot accent-color fs-1"></i>
                                     <div class="d-flex flex-column">
                                         <h6 class="text-white font-1">Address</h6>
-                                        <span class="text-gray">99 Roving St., Big City, PKU 23456</span>
+                                        <span class="text-gray">Raheem Villa, 2nd Floor Road No 3 & 5,Opp MJ College, Near IVRCL, Banjara Hills, Hyderabad, Telangana.</span>
                                     </div>
                                 </div>
                             </div>

@@ -1,5 +1,5 @@
 <?php
-define('ROOT_PATH', 'http://localhost/photography/');
+define('ROOT_PATH', 'http://localhost/studio-vision/');
 ?>
 
 <!DOCTYPE html>
@@ -15,6 +15,8 @@ define('ROOT_PATH', 'http://localhost/photography/');
     $title = isset($meta['keywords']) ? $meta['keywords'] : 'AS Studio Vision';
     echo $meta['keywords'] ;?>">
     
+    <link rel="icon" href="<?= ROOT_PATH ?>img/logo.png" alt="logo" type="image/x-icon" />
+    <link rel="shortcut icon" type="image/x-icon" href="<?= ROOT_PATH ?>img/logo.png" alt="logo" />
 
     <!-- Stylesheet -->
     <link href="<?= ROOT_PATH ?>css/vendor/bootstrap.min.css" rel="stylesheet">

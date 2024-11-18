@@ -187,7 +187,7 @@
         </section>
 
         <section class="section position-relative bg-attach-fixed"
-            style="background-image: url(image/dummy-img-1920x900.jpg);">
+            style="background-image: url(img/banner-2.webp);" alt="banner">
             <div class="r-container">
                 <div class="overlay"></div>
                 <div class="position-relative" style="z-index: 2;">
@@ -209,19 +209,16 @@
                                 <div class="swiper-slide">
                                     <div class="d-flex flex-column p-4">
                                         <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.</p>
+                                        We booked them for our engagement photos, and they exceeded our expectations. The pictures were breathtaking, with perfect lighting and creative angles. We’re so excited to share these memories with our loved ones.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
-                                                <img src="image/dummy-img-400x400.jpg" alt=""
+                                                <img src="img/testimonial-1.webp" alt=""
                                                     class="rounded-circle img-fluid"
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
                                             <div class="d-flex flex-column flex-grow-1">
-                                                <h6 class="accent-color font-2 lh-1">Abraham Smith</h6>
-                                                <span class="text-gray">CEO</span>
+                                                <h6 class="accent-color font-2 lh-1"> Meera & David </h6>
+                                                
                                             </div>
                                         </div>
                                     </div>
@@ -229,19 +226,16 @@
                                 <div class="swiper-slide">
                                     <div class="d-flex flex-column p-4">
                                         <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.</p>
+                                        They did an amazing job with my baby’s photoshoot. The team was so patient and creative, making my little one smile naturally. The photos turned out adorable. We are so happy with their work thank you.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
-                                                <img src="image/dummy-img-400x400.jpg" alt=""
+                                                <img src="img/testimonial-2.webp" alt=""
                                                     class="rounded-circle img-fluid"
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
                                             <div class="d-flex flex-column flex-grow-1">
-                                                <h6 class="accent-color font-2 lh-1">Laluna Adam</h6>
-                                                <span class="text-gray">CEO</span>
+                                                <h6 class="accent-color font-2 lh-1"> Miley </h6>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -249,19 +243,16 @@
                                 <div class="swiper-slide">
                                     <div class="d-flex flex-column p-4">
                                         <p class="text-gray mb-4 p-4 fs-5 fst-italic font-1">
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                                            tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                                            quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-                                            consequat.</p>
+                                        We contacted them for my daughter’s birthday party, and they captured every joyful moment perfectly. The photos are vibrant and full of life, bringing back all the happy memories. Highly recommend it for any special occasion.</p>
                                         <div class="d-flex flex-row align-items-center">
                                             <div class="me-4">
-                                                <img src="image/dummy-img-400x400.jpg" alt=""
+                                                <img src="img/testimonial-3.webp" alt=""
                                                     class="rounded-circle img-fluid"
                                                     style="width: 4.5rem; height: 4.5rem;">
                                             </div>
                                             <div class="d-flex flex-column flex-grow-1">
-                                                <h6 class="accent-color font-2 lh-1">Mike Wasosky</h6>
-                                                <span class="text-gray">CEO</span>
+                                                <h6 class="accent-color font-2 lh-1"> Rachel </h6>
+                                               
                                             </div>
                                         </div>
                                     </div>
@@ -273,9 +264,10 @@
             </div>
         </section>
 
+
         <section class="py-5 position-relative">
             <div class="r-container">
-                <div class="row row-cols-1 row-cols-lg-4 py-3 position-relative w-100" style="z-index: 2;">
+                <div class="row row-cols-1 row-cols-lg-3 py-3 position-relative w-100" style="z-index: 2;">
                     <div class="col mb-3">
                         <div class="d-flex flex-column justify-content-center text-center align-items-center gap-3">
                             <i class="fa-solid fa-user-group accent-color" style="font-size: 50px;"></i>
@@ -285,20 +277,12 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col mb-3">
-                        <div class="d-flex flex-column justify-content-center text-center align-items-center gap-3">
-                            <i class="fa-solid fa-trophy accent-color" style="font-size: 50px;"></i>
-                            <div class="font-2 fw-bold">
-                                <h3 class="text-white">99</h3>
-                                <h6 class="text-white">Award Winning</h6>
-                            </div>
-                        </div>
-                    </div>
+                   
                     <div class="col mb-3">
                         <div class="d-flex flex-column justify-content-center text-center align-items-center gap-3">
                             <i class="fa-solid fa-users accent-color" style="font-size: 50px;"></i>
                             <div class="font-2 fw-bold"> 
-                                <h3 class="text-white">35</h3>
+                                <h3 class="text-white">5</h3>
                                 <h6 class="text-white">Profesional Team</h6>
                             </div>
                         </div>
@@ -320,32 +304,32 @@
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 masonry-grid w-100">
                 <div class="col masonry-item mb-3">
                     <a href="image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                        <img src="image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                        <img src="img/wedding-sevice-4.webp" alt="wedding" class="img-fluid">
                     </a>
                 </div>
                 <div class="col masonry-item mb-3">
                     <a href="image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                        <img src="image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                        <img src="img/birthday-5.webp" alt="birthday" class="img-fluid">
                     </a>
                 </div>
                 <div class="col masonry-item mb-3">
-                    <a href="image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                        <img src="image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                    <a href="img/pre-post-wedding-2.webp" data-fslightbox="gallery">
+                        <img src="img/pre-post-wedding-2.webp" alt="pre wedding" class="img-fluid">
                     </a>
                 </div>
                 <div class="col masonry-item mb-3">
-                    <a href="image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                        <img src="image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                    <a href="img/documentary-4.webp" data-fslightbox="gallery">
+                        <img src="img/documentary-4.webp" alt="documentary" class="img-fluid">
                     </a>
                 </div>
                 <div class="col masonry-item mb-3">
-                    <a href="image/dummy-img-900x700.jpg" data-fslightbox="gallery">
-                        <img src="image/dummy-img-900x700.jpg" alt="" class="img-fluid">
+                    <a href="img/social-media-video-5.webp" data-fslightbox="gallery">
+                        <img src="img/social-media-video-5.webp" alt="social media" class="img-fluid">
                     </a>
                 </div>
                 <div class="col masonry-item mb-3">
-                    <a href="image/dummy-img-900x500.jpg" data-fslightbox="gallery">
-                        <img src="image/dummy-img-900x500.jpg" alt="" class="img-fluid">
+                    <a href="img/wedding-sevice-3.webp" data-fslightbox="gallery">
+                        <img src="img/wedding-sevice-3.webp" alt="wedding" class="img-fluid">
                     </a>
                 </div>
                 

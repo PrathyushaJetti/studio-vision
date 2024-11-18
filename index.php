@@ -73,7 +73,7 @@ include('includes/header.php')
         </section>
         <section class="py-5 position-relative">
             <div class="r-container">
-                <div class="row row-cols-1 row-cols-lg-4 py-3 position-relative w-100" style="z-index: 2;">
+                <div class="row row-cols-1 row-cols-lg-3 py-3 position-relative w-100" style="z-index: 2;">
                     <div class="col mb-3">
                         <div class="d-flex flex-column justify-content-center text-center align-items-center gap-3">
                             <i class="fa-solid fa-user-group accent-color" style="font-size: 50px;"></i>
@@ -83,20 +83,12 @@ include('includes/header.php')
                             </div>
                         </div>
                     </div>
-                    <div class="col mb-3">
-                        <div class="d-flex flex-column justify-content-center text-center align-items-center gap-3">
-                            <i class="fa-solid fa-trophy accent-color" style="font-size: 50px;"></i>
-                            <div class="font-2 fw-bold">
-                                <h3 class="text-white">99</h3>
-                                <h6 class="text-white">Award Winning</h6>
-                            </div>
-                        </div>
-                    </div>
+                   
                     <div class="col mb-3">
                         <div class="d-flex flex-column justify-content-center text-center align-items-center gap-3">
                             <i class="fa-solid fa-users accent-color" style="font-size: 50px;"></i>
                             <div class="font-2 fw-bold"> 
-                                <h3 class="text-white">35</h3>
+                                <h3 class="text-white"> 5</h3>
                                 <h6 class="text-white">Profesional Team</h6>
                             </div>
                         </div>
@@ -469,7 +461,7 @@ include('includes/header.php')
                                     <i class="fa-solid fa-location-dot accent-color fs-1"></i>
                                     <div class="d-flex flex-column">
                                         <h6 class="text-white font-1">Address</h6>
-                                        <span class="text-gray">99 Roving St., Big City, PKU 23456</span>
+                                        <span class="text-gray">Raheem Villa, 2nd Floor Road No 3 & 5,Opp MJ College, Near IVRCL, Banjara Hills, Hyderabad, Telangana.</span>
                                     </div>
                                 </div>
                             </div>
