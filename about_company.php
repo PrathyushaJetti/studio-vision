@@ -1,5 +1,14 @@
-<?php include './includes/header.php'; ?>
+<?php ;
+$meta = [
+    'title' => "About us - AS Studio vision | In Hyderabad ",
+    'description' => "About as, learn more, know more, for more information, AS Studio vision, photography services, best photography services In Hyderabad, photography services for all events,",
+    'keywords' => "Capturing your special movements with our professional photography services, we collaborate with your special events to bring beautiful memories for a lifetime.",
+   
+    
+]; 
+include('includes/header.php')
 
+ ?>
     <main>
         <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
             <div class="r-container">
@@ -12,7 +21,7 @@
                         </h3>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb font-2">
-                                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">About Company </li>
                             </ol>
                         </nav>
@@ -31,16 +40,9 @@
                         </div>
                         <div class="col">
                             <div class="d-flex flex-column justify-content-center gap-3 h-100">
-                                <div class="divider mb-3">
-                                    <span class="accent-color fs-5 me-3">HI I'M ALEX</span>
-                                </div>
+                                
                                 <h4 class="text-title text-white fw-bold font-1 lh-1">Professional Photographer</h4>
-                                <p class="text-white f-18 text-font my-4">Lorem ipsum dolor sit amet, consectetur
-                                    adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-                                    Ut
-                                    enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
-                                    ea
-                                    commodo consequat.
+                                <p class="text-white f-18 text-font my-4">Our expert photographer brings a keen eye, technical skill, and creative vision to every shot. With years of experience, we capture moments that reflect true emotions and tell stories. Trust an expert to create unforgettable experiences.
                                 </p>
                                 <div class="my-4">
                                     <img src="image/TTD.png" alt="" class="img-fluid" style="max-width: 300px;">
@@ -78,10 +80,7 @@
                                 <span class="accent-color fs-5 me-3">OUR SERVICES</span>
                             </div>
                             <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">What We Do.</h4>
-                            <p class="text-gray f-18 text-font" style="max-width: 468px;">Lorem ipsum dolor sit amet,
-                                consectetur adipiscing
-                                elit, sed do
-                                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                            <p class="text-gray f-18 text-font" style="max-width: 468px;">AS Studio Vision provides a wide range of photography services. We are experts in capturing every occasion beautifully. From indoor and outdoor photography to birthdays, weddings, and special events, we transform moments into amazing memories with stunning detail and professionalism. </p>
                         </div>
                     </div>
                     <div class="row row-cols-1 row-cols-lg-3">
@@ -130,8 +129,7 @@
                             <span class="accent-color fs-5 me-3">SKILLS</span>
                         </div>
                         <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Team Skills.</h4>
-                        <p class="text-gray">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
-                            tempor incididunt ut labore et dolore </p>
+                        <p class="text-gray">Our Expert team members capture every occasion memorable, delivering stunning images and creative videos. </p>
                         <div class="d-flex flex-column gap-4">
                             <div class="r-progress w-100" style="--value:95;">
                                 <span class="text-white font-2">Photography</span>

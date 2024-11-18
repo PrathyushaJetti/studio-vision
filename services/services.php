@@ -1,4 +1,4 @@
-<?php include 'includes/header.php'; ?>
+<?php include '.././includes/header.php'; ?>
     <!-- End Header -->
 
     <main>
@@ -13,7 +13,7 @@
                         </h3>
                         <nav aria-label="breadcrumb">
                             <ol class="breadcrumb font-2">
-                                <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                                <li class="breadcrumb-item"><a href="index.html">Home</a></li>
                                 <li class="breadcrumb-item active" aria-current="page">Services</li>
                             </ol>
                         </nav>
@@ -32,157 +32,77 @@
                                 <span class="accent-color fs-5 me-3">OUR SERVICES</span>
                             </div>
                             <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">What We Do.</h4>
-                            <p class="text-gray f-18 text-font" style="max-width: 468px;">AS Studio Vision provides a wide range of photography services. We are experts in capturing every occasion beautifully. From indoor and outdoor photography to birthdays, weddings, and special events, we transform moments into amazing memories with stunning detail and professionalism.</p>
+                            <p class="text-gray f-18 text-font" style="max-width: 468px;">Lorem ipsum dolor sit amet,
+                                consectetur adipiscing
+                                elit, sed do
+                                eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
                         </div>
                     </div>
                     <div class="row row-cols-1 row-cols-lg-3">
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
-                                <img src="img/pre-wedding-icon.webp" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Pre Post Wedding</h5>
+                                <img src="image/icon-1.png" alt="" srcset="" class="img-fluid img-icon">
+                                <h5 class="text-white font-1">Fashion Photography</h5>
                                 <p class="text-gray">
-                                Pre post wedding photography captures love, emotions, and timeless memories beautifully.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labor.
                                 </p>
                             </div>
                         </div>
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
-                                <img src="img/wedding-icon.webp" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Wedding </h5>
+                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
+                                <h5 class="text-white font-1">Portrait Photography</h5>
                                 <p class="text-gray">
-                                Capturing your wedding day with stunning, emotional, and timeless photography.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-3.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Birthday Party </h5>
-                                <p class="text-gray">
-                                Creative birthday party photography capturing joy, laughter, and special moments.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labor.
                                 </p>
                             </div>
                         </div>
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
                                 <img src="image/icon-3.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Baby Kids Portfolio </h5>
+                                <h5 class="text-white font-1">Landscape Photography</h5>
                                 <p class="text-gray">
-                                Creative baby/kid’s portfolio Gallery, by capturing unique moments and expressions beautifully.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labor.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="col px-3">
+                            <div class="d-flex flex-column gap-3">
+                                <img src="image/icon-3.png" alt="" srcset="" class="img-fluid img-icon">
+                                <h5 class="text-white font-1">Landscape Photography</h5>
+                                <p class="text-gray">
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labor.
                                 </p>
                             </div>
                         </div>
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
                                 <img src="image/icon-1.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Special Events </h5>
+                                <h5 class="text-white font-1">Fashion Photography</h5>
                                 <p class="text-gray">
-                                Capturing life's special events with vibrant, professional photography for memories.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labor.
                                 </p>
                             </div>
                         </div>
                         <div class="col px-3">
                             <div class="d-flex flex-column gap-3">
                                 <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Fashion Portfolio </h5>
+                                <h5 class="text-white font-1">Portrait Photography</h5>
                                 <p class="text-gray">
-                                Perfect fashion photography at AS Studio vision that captures individuality, and personality.
+                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+                                    incididunt ut labor.
                                 </p>
                             </div>
                         </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Documentary </h5>
-                                <p class="text-gray">
-                                Authentic documentary photography captures real stories, emotions, and moments powerfully.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Short Film & Teasery </h5>
-                                <p class="text-gray">
-                                Engage Your Audience with AS Studio Vision’s Short Film and Teaser Services.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="img/indoor-outdoor-icon.webp" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Indoor And Outdoor </h5>
-                                <p class="text-gray">
-                                Capture Stunning Moments with AS Studio Vision’s Indoor and Outdoor Photography Services.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Corporate Event </h5>
-                                <p class="text-gray">
-                                Capture Professional Moments with AS Studio Vision’s Corporate Event Photography Services.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Live Streaming </h5> 
-                                <p class="text-gray">
-                                consistent live streaming services easy, in-the-moment interaction with the audience.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1">Albums And Frames</h5>
-                                <p class="text-gray">
-                                Personalized albums and frames that stylishly display your memories.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="img/video-editing-icon.webp" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Video Editing </h5>
-                                <p class="text-gray">
-                                Enhance visual evidence with professional video editing services.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1">Food And Products</h5>
-                                <p class="text-gray">
-                                Capture attention with stunning, professional food and product photography services.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Social Media Videos </h5>
-                                <p class="text-gray">
-                                Engage audiences with dynamic, impactful social media video content creation.
-                                </p>
-                            </div>
-                        </div>
-                        <div class="col px-3">
-                            <div class="d-flex flex-column gap-3">
-                                <img src="image/icon-2.png" alt="" srcset="" class="img-fluid img-icon">
-                                <h5 class="text-white font-1"> Advertising Videos </h5>
-                                <p class="text-gray">
-                                Create impactful ads with professional videography that drive brand awareness.
-                                </p>
-                            </div>
-                        </div>
-                        
                     </div>
-                    
+                    <div>
+                        <a href="" type="button">All Services</a>
+                    </div>
                 </div>
         </section>
 
@@ -353,5 +273,5 @@
         </section>
     </main>
 
-    <?php include 'includes/footer.php'; ?>
+    <?php include '.././includes/footer.php'; ?>
 </html>

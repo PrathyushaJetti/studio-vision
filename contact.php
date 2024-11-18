@@ -1,4 +1,14 @@
-<?php include 'includes/header.php'; ?>
+<?php ;
+$meta = [
+    'title' => "Contact us - AS Studio Vision | in Hyderabad ",
+    'description' => "Contact us for any event, AS Studio Vision professional photographers capture your special event with best memorable in your life.    ",
+    'keywords' => "Contact us, AS Studio Vision, best photography services In Hyderabad, learn more, contact more information,",
+   
+    
+]; 
+include('includes/header.php')
+
+ ?>
 
     <main>
         <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
@@ -30,9 +40,7 @@
                         </div>
                         <h4 class="text-title text-white fw-bold font-1 lh-1 mb-5">Contact Us.</h4>
                         <p class="text-gray">
-                            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                            labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                            laboris.
+                        Capture your special moments with AS Studio Vision! Whether it's indoor or outdoor photography, our expert team is here to bring your vision to life. Contact us today to book your session!
                         </p>
                         <div class="row row-cols-1 row-cols-lg-2 mt-5">
                             <div class="col mb-3">
@@ -147,9 +155,7 @@
                 <div class="d-flex flex-column justify-content-center align-items-center text-center gap-3">
                     <h4 class="text-white font-1 fw-bold fs-1">Take your moment with Codagraph</h4>
                     <p class="text-gray" style="max-width: 768px;">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-                        laboris nisi ut aliquip ex ea commodo consequat.
+                    Capture every beautiful moment with AS Studio Vision. Our skilled photographers bring creativity and precision to each shot, ensuring your memories are perfectly preserved. Trust us to turn your moments into timeless art. 
                     </p>
                     <a href="" type="button" class="btn rounded-0">GET STARTED</a>
                 </div>

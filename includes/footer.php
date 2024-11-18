@@ -1,16 +1,15 @@
 <footer>
-        <section class="section position-relative" style="background-image: url(image/dummy-img-1920x900.jpg);">
+        <section class="section position-relative" style="background-image: url(<?= ROOT_PATH ?>image/dummy-img-1920x900.jpg);">
             <div class="r-container">
                 <div class="overlay"></div>
                 <div class="d-flex justify-content-center align-items-center flex-column position-relative"
                     style="z-index: 2;">
                     <div class="mb-4">
-                        <img src="image/logo.png" alt="" class="img-fluid">
+                        <img src="<?= ROOT_PATH ?>image/logo.png" alt="" class="img-fluid">
                     </div>
                     <h4 class="text-white font-2 mb-4">Stay in Touch</h4>
                     <p class="text-gray font-1">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-                        labore et dolore magna aliqua.
+                    Stay in touch with us for updates, and inspiration, and to book your next unforgettable photography experience with AS Studio Vision! 
                     </p>
                     <form action="" class="w-100 form needs-validation">
                         <input type="text" name="action" value="Subscribe" hidden>
@@ -70,8 +69,8 @@
             </div>
         </section>
     </footer>
-    <script src="js/vendor/fslightbox.js"></script>
-    <script src="js/masonry.js"></script>
+    <script src="<?= ROOT_PATH ?>js/vendor/fslightbox.js"></script>
+    <script src="<?= ROOT_PATH ?>js/masonry.js"></script>
 </body>
 
 <?php
